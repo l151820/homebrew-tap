@@ -1,7 +1,7 @@
 # Wird bei jedem Release automatisch aus MacIPMI/packaging/macipmi.rb.template erzeugt.
 cask "macipmi" do
-  version "0.3.0"
-  sha256 "6980f79e025204bc5e3f89abd7535ccaf0c984c14b553eb0f8eba503011aa947"
+  version "0.4.0"
+  sha256 "625d71b71cdbae8449c9eaa8213820dff4994e273bac9319be0a2c6e3fe3aba4"
 
   url "https://github.com/l151820/MacIPMI/releases/download/v#{version}/MacIPMI-#{version}.zip"
   name "MacIPMI"
